@@ -14,3 +14,9 @@ I will use this repository to share my solution for problems on Leetcode. Some o
 ### 6. Remove Nth Node From End of List
 
 ### 7. Valid Parentheses 
+
+### 8. Merge Two Sorted Lists
+
+### 9. Remove Duplicates from Sorted Array
+
+### 10. Search Insert Position
