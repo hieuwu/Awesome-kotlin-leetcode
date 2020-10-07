@@ -21,7 +21,7 @@ class MergeTwoSortedLists {
 
                 p = p.next!!
             }
-            
+
             if(p1!=null){
                 p.next = p1;
             }
