@@ -1,0 +1,2 @@
+class RunningSumOf1dArray {
+}
