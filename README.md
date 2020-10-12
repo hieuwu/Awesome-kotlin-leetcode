@@ -20,3 +20,16 @@ I will use this repository to share my solution for problems on Leetcode. Some o
 ### 9. Remove Duplicates from Sorted Array
 
 ### 10. Search Insert Position
+
+### 11. Best Time to Buy and Sell Stock
+
+### 12. Valid Palindrome    	
+
+### 13. Palindrome Linked List    	
+
+### 14. Shuffle the Array   
+
+### 15. Running Sum of 1d Array  
+
+
+
