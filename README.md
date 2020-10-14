@@ -25,7 +25,15 @@ I will use this repository to share my solution for problems on Leetcode. Some o
 
 ### Valid Palindrome    	
 
+### Single Number
+
+### Intersection of Two Linked Lists
+
+### Majority Element
+
 ### Palindrome Linked List    	
+
+### Find the Duplicate Number
 
 ### Shuffle the Array   
 
