@@ -2,7 +2,7 @@
 I will use this repository to share my solution for problems on Leetcode. Some of them might look so 'ugly' but that is my very first lines of code when I get into the problem. Every solution will include explanation with my understanding for you guys to reference
 
 ### Two sum
-Create HashMap, a `result` Array
+Create a HashMap, a `result` Array
 1. For each `element` in the nums array, you will get subtraction of that `element` and target called `sub`.
 2. If the HashMap already has the `sub` as key, put the value of the `sub` into the result array, then the index of that `element`. Finally return the `result` array
 3. If the HashMap have no key that equals the `sub`, put the element as a key and its index as the value
